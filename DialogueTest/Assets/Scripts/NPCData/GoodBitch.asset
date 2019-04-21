@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 849ae30f06686fb40bb73855829d2241, type: 3}
+  m_Name: GoodBitch
+  m_EditorClassIdentifier: 
+  NPCName: Despacito
+  NPCDialogue:
+    dialogue:
+    - I must apologize for my edgelord sibling
+    - I'm dead inside, but i'll smile for you
+    - haha i'm kidding
+    - let's eat out sometime
+    - i've got stuff to tell ya
